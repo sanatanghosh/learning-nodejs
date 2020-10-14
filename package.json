@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sanatanghosh/learning-nodejs/issues"
   },
-  "homepage": "https://github.com/sanatanghosh/learning-nodejs#readme"
+  "homepage": "https://github.com/sanatanghosh/learning-nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
 }
